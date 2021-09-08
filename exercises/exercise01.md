@@ -28,5 +28,7 @@ All exercises in this lab utilize the workspace Synapse Studio user interface. T
 5. On the **Overview** tab of the Synapse Workspace page, select the **Open Synapse Studio** button. Alternatively you can select the Workspace web URL link.
 
     ![On the Synapse workspace resource screen, the Overview pane is shown with the Launch Synapse Studio button highlighted in the top toolbar. The Workspace web URL value is also highlighted.](https://raw.githubusercontent.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI/master/Hands-on%20lab/media/workspaceresource_launchsynapsestudio.png "Launching Synapse Studio")
+    
+5. Use the left hand menu to Navigate and explore the **Synapse Analytics Studio**.
 
 <div align="right"><a href="#exercise-1-accessing-the-azure-synapse-analytics-workspace">↥ back to top</a></div>
